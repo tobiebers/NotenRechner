@@ -8,7 +8,7 @@ class MainWindow(QtWidgets.QDialog):
 
         loadUi("untitled.ui", self)
 
-        self.setWindowTitle("Noten Rechner")
+        self.setWindowTitle("Tobi Noten Rechner")
 
 
 #inputs
